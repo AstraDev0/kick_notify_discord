@@ -7,18 +7,6 @@
 
 Kick Channel Tracker Bot is a Discord bot designed to track Kick streaming channels. This bot allows users to easily add or remove Kick channels from a tracking list, providing a seamless experience to manage stream monitoring on your Discord server.
 
-## Features
-
-- **Add Kick Channel:** Easily add a Kick channel to the tracking list with the `/add-kick` command.
-- **Remove Kick Channel:** Remove a Kick channel from the tracking list using the `/remove-kick` command.
-- **Help Command:** Get a list of available commands with `/help`.
-
-## Commands
-
-- **/add-kick**: Add a Kick channel to the track list.
-- **/remove-kick**: Remove the Kick channel from the track list.
-- **/help**: Display a list of available commands.
-
 ## Installation
 
 To set up the Kick Channel Tracker Bot, follow these steps:
