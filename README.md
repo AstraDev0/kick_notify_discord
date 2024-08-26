@@ -66,5 +66,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-- Developed by [AstraDev](https://github.com/AstraDev).
+- Developed by [AstraDev0](https://github.com/AstraDev0).
 - Inspired by the growing need to manage Kick streams directly from Discord.
